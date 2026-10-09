@@ -12,7 +12,12 @@ Biblioteca de Videojuegos es una aplicación Android diseñada para representar 
 La aplicación cuenta con dos pantallas diseñadas:
 
 * **Pantalla principal:** muestra el título de la biblioteca, una ilustración y un botón para añadir videojuegos.
+
+<img width="958" height="638" alt="image" src="https://github.com/user-attachments/assets/2b23a21b-69ab-4f1c-b0ea-d753bd4469af" />
+
 * **Pantalla para añadir videojuegos:** contiene un formulario con campos para introducir el nombre, la plataforma, el género, el estado y la valoración de un videojuego.
+
+<img width="962" height="641" alt="image" src="https://github.com/user-attachments/assets/cbd47be1-9f07-4920-89c4-ba9bd4474278" />
 
 ## 🎨 Recursos y diseño
 
