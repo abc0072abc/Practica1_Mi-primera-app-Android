@@ -3,7 +3,6 @@
 
     <string name="titulo_biblioteca">My Library</string>
     <string name="titulo_anadir">Add Video Game</string>
-    <string name="titulo_detalles">Video Game Details</string>
 
     <string name="texto_nombre">Name</string>
     <string name="texto_plataforma">Platform</string>
@@ -13,13 +12,28 @@
 
     <string name="boton_guardar">Save</string>
     <string name="boton_cancelar">Cancel</string>
-    <string name="boton_editar">Edit</string>
-    <string name="boton_eliminar">Delete</string>
     <string name="boton_anadir">Add Video Game</string>
 
     <string name="estado_jugado">Played</string>
     <string name="estado_pendiente">Pending</string>
     <string name="mensaje_bienvenida">Welcome to your video game library</string>
+
+    <string name="hint_nombre_videojuego">Enter the video game name</string>
+
+    <string-array name="lista_generos">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Sports</item>
+        <item>RPG</item>
+        <item>Strategy</item>
+        <item>Simulation</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="lista_estados">
+        <item>Pending</item>
+        <item>Played</item>
+    </string-array>
 
     <string-array name="lista_plataformas">
         <item>PC</item>

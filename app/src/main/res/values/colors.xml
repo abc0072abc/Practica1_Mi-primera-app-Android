@@ -7,4 +7,5 @@
     <color name="color_texto">#FFFFFF</color>
     <color name="color_texto_secundario">#B8B8C8</color>
     <color name="color_acento">#48D597</color>
+    <color name="color_cancelar">#E53935</color>
 </resources>

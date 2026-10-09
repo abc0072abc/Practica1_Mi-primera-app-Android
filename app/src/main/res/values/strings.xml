@@ -3,7 +3,6 @@
 
     <string name="titulo_biblioteca">Mi biblioteca</string>
     <string name="titulo_anadir">Añadir videojuego</string>
-    <string name="titulo_detalles">Detalles del videojuego</string>
 
     <string name="texto_nombre">Nombre</string>
     <string name="texto_plataforma">Plataforma</string>
@@ -13,13 +12,28 @@
 
     <string name="boton_guardar">Guardar</string>
     <string name="boton_cancelar">Cancelar</string>
-    <string name="boton_editar">Editar</string>
-    <string name="boton_eliminar">Eliminar</string>
     <string name="boton_anadir">Añadir videojuego</string>
 
     <string name="estado_jugado">Jugado</string>
     <string name="estado_pendiente">Pendiente</string>
     <string name="mensaje_bienvenida">Bienvenido a tu biblioteca de videojuegos</string>
+
+    <string name="hint_nombre_videojuego">Escribe el nombre del videojuego</string>
+
+    <string-array name="lista_generos">
+        <item>Acción</item>
+        <item>Aventura</item>
+        <item>Deportes</item>
+        <item>RPG</item>
+        <item>Estrategia</item>
+        <item>Simulación</item>
+        <item>Otros</item>
+    </string-array>
+
+    <string-array name="lista_estados">
+        <item>Pendiente</item>
+        <item>Jugado</item>
+    </string-array>
 
     <string-array name="lista_plataformas">
         <item>PC</item>
