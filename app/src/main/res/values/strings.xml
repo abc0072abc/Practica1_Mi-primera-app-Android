@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">PMDM_P1_AgustinBorregueroCastro</string>
+    <string name="app_name">Biblioteca de Videojuegos</string>
+
+    <string name="titulo_biblioteca">Mi biblioteca</string>
+    <string name="titulo_anadir">Añadir videojuego</string>
+    <string name="titulo_detalles">Detalles del videojuego</string>
+
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_plataforma">Plataforma</string>
+    <string name="texto_genero">Género</string>
+    <string name="texto_estado">Estado</string>
+    <string name="texto_valoracion">Valoración</string>
+
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="boton_editar">Editar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_anadir">Añadir videojuego</string>
+
+    <string name="estado_jugado">Jugado</string>
+    <string name="estado_pendiente">Pendiente</string>
+
+    <string-array name="lista_plataformas">
+        <item>PC</item>
+        <item>PlayStation 5</item>
+        <item>Xbox Series X/S</item>
+        <item>Nintendo Switch</item>
+    </string-array>
 </resources>

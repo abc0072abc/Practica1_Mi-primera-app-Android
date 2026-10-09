@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Video Game Library</string>
+
+    <string name="titulo_biblioteca">My Library</string>
+    <string name="titulo_anadir">Add Video Game</string>
+    <string name="titulo_detalles">Video Game Details</string>
+
+    <string name="texto_nombre">Name</string>
+    <string name="texto_plataforma">Platform</string>
+    <string name="texto_genero">Genre</string>
+    <string name="texto_estado">Status</string>
+    <string name="texto_valoracion">Rating</string>
+
+    <string name="boton_guardar">Save</string>
+    <string name="boton_cancelar">Cancel</string>
+    <string name="boton_editar">Edit</string>
+    <string name="boton_eliminar">Delete</string>
+    <string name="boton_anadir">Add Video Game</string>
+
+    <string name="estado_jugado">Played</string>
+    <string name="estado_pendiente">Pending</string>
+
+    <string-array name="lista_plataformas">
+        <item>PC</item>
+        <item>PlayStation 5</item>
+        <item>Xbox Series X/S</item>
+        <item>Nintendo Switch</item>
+    </string-array>
+</resources>
