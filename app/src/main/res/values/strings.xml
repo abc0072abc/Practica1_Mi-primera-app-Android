@@ -19,6 +19,7 @@
 
     <string name="estado_jugado">Jugado</string>
     <string name="estado_pendiente">Pendiente</string>
+    <string name="mensaje_bienvenida">Bienvenido a tu biblioteca de videojuegos</string>
 
     <string-array name="lista_plataformas">
         <item>PC</item>

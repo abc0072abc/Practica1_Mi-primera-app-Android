@@ -19,6 +19,7 @@
 
     <string name="estado_jugado">Played</string>
     <string name="estado_pendiente">Pending</string>
+    <string name="mensaje_bienvenida">Welcome to your video game library</string>
 
     <string-array name="lista_plataformas">
         <item>PC</item>
